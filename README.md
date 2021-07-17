@@ -1,6 +1,6 @@
 # MultiInputTimeSeriesGenerator
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)]()
 
  Multi Input Timeseries Generator: It works Incase We have multi input, The keras timeseries generator only works for only single input. Keras timeseries generator can only generate sequences for single input.
  
