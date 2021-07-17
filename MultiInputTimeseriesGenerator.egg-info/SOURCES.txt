@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+MultiInputTimeseriesGenerator/__init__.py
+MultiInputTimeseriesGenerator/main.py
+MultiInputTimeseriesGenerator.egg-info/PKG-INFO
+MultiInputTimeseriesGenerator.egg-info/SOURCES.txt
+MultiInputTimeseriesGenerator.egg-info/dependency_links.txt
+MultiInputTimeseriesGenerator.egg-info/requires.txt
+MultiInputTimeseriesGenerator.egg-info/top_level.txt
